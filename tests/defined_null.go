@@ -1,7 +1,7 @@
 package tests
 
 import (
-    "github.com/mailru/easyjson/jlexer"
+    "github.com/w1ck3dg0ph3r/easyjson/jlexer"
     "bytes"
     "encoding/json"
 )

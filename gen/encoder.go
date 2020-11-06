@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mailru/easyjson"
+	"github.com/w1ck3dg0ph3r/easyjson"
 )
 
 func (g *Generator) getEncoderName(t reflect.Type) string {

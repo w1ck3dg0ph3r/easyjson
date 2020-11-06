@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mailru/easyjson"
+	"github.com/w1ck3dg0ph3r/easyjson"
 )
 
 func TestStrFieldsUnescaping(t *testing.T) {

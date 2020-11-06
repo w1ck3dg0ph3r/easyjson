@@ -7,7 +7,7 @@ import (
 
 	"encoding/json"
 
-	"github.com/mailru/easyjson/opt"
+	"github.com/w1ck3dg0ph3r/easyjson/opt"
 )
 
 // This struct type must NOT have a generated marshaler

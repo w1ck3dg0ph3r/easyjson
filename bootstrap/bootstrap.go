@@ -16,9 +16,9 @@ import (
 	"sort"
 )
 
-const genPackage = "github.com/mailru/easyjson/gen"
-const pkgWriter = "github.com/mailru/easyjson/jwriter"
-const pkgLexer = "github.com/mailru/easyjson/jlexer"
+const genPackage = "github.com/w1ck3dg0ph3r/easyjson/gen"
+const pkgWriter = "github.com/w1ck3dg0ph3r/easyjson/jwriter"
+const pkgLexer = "github.com/w1ck3dg0ph3r/easyjson/jlexer"
 
 var buildFlagsRegexp = regexp.MustCompile("'.+'|\".+\"|\\S+")
 

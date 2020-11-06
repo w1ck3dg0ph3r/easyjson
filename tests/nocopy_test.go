@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/mailru/easyjson"
+	"github.com/w1ck3dg0ph3r/easyjson"
 )
 
 // verifies if string pointer belongs to the given buffer or outside of it
